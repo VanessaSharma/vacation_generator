@@ -1,6 +1,6 @@
 # _Vacation Generator_
 
-#### _This simple webpage will determine what place you should visit next by asking you a series of easy questions.}, {June 10th,2016_
+#### _This simple webpage will determine what place you should visit next by asking you a series of easy questions., June 10th,2016_
 
 #### By _**Vanessa Palacios**_
 
