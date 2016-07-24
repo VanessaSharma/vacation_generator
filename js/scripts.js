@@ -1,9 +1,9 @@
 $(document).ready(function() {
-  $("form#vacation").submit(function() {
+  $("form#vacation").submit(function(event) {
     event.preventDefault();
-    var number1 = $("#q1").val();
-    var number2 = $("#q2").val();
-    var number3 = $("#q3").val();
+    var number1 = $("#cuisine-question").val();
+    var number2 = $("#weather-question").val();
+    var number3 = $("#pastime-question").val();
     var result;
     if (number1 === "Mexican"  && number2 === "Sunny") {
         document.write("<img src='images/mexico.jpg' />");
