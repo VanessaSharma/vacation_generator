@@ -1,6 +1,6 @@
-${document).ready(function() {
-  $("form#travel").submit(function(event) {
-    $('form#travel').hide();
+$(document).ready(function() {
+  $("form#vacation").submit(function(event) {
+    $('form#vacation').hide();
     event.preventDefault();
     var number1 = $("#cuisine-question").val();
     var number2 = $("#weather-question").val();
@@ -20,4 +20,3 @@ ${document).ready(function() {
     }
   });
  });
-});
