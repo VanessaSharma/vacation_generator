@@ -1,0 +1,55 @@
+.Mexico {
+	display: none;
+}
+
+.India {
+	display: none;
+}
+
+.Carribean {
+	display: none;
+}
+
+.Sorry {
+	display: none;)
+}
+
+body{
+background-image: url("http://kingofwallpapers.com/paradise/paradise-026.jpg");
+background-size: cover;
+font-family: Vardana, 
+}
+.container{
+
+	height: 500px;
+	width: 700px;
+	background-color: rgba(012,202,111, 0.3);
+	margin: auto ;
+}
+h1{
+	font-family: Comic Sans MS;
+}
+form{
+
+	margin-left: 150px;
+	margin-top:  50px
+}
+
+ input[type="text"] { 
+
+ 	width: 250px; 
+ 	height: 30px;
+ 	display: block; 
+ 	margin-bottom: 10px; 
+ 	background-color: #e6e6fa;
+ 	border-radius: 15px;
+
+
+ }
+ button {
+     width: 70px; 
+ 	height: 30px;
+ 	display: block;
+ 	border-radius: 15px; 
+ 	margin-left: 100px;
+ 	margin-top: 40px;
